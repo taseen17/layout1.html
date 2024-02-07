@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    height: 100px;
+    text-align: center;
+    background-color: cadetblue;
+}
+.footer{
+    height: 300px;
+    text-align: center;
+    color: darkred;
+    background-color: fuchsia;
+}
+.sidebar{
+    height: 300px;
+    text-align: center;
+    color: brown;
+    background-color: aqua;
+    width: 30%;
+}
+.content{
+    height: 300px;
+    text-align: center;
+    color: black;
+    background-color: peru;
+    width: 70%;
+}
+.middle_part{
+    display: flex;
+}
+.navigation{
+    height: 100px;
+    text-align: center;
+    background-color: aqua;
+}
